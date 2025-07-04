@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/EBCONT-Conference/github-unleashed-sample-app/compare/v0.0.2...v0.0.3) (2025-07-04)
+
+
+### Bug Fixes
+
+* **deps:** bump org.springframework.boot:spring-boot-starter-parent ([7aea02b](https://github.com/EBCONT-Conference/github-unleashed-sample-app/commit/7aea02b2547665c96ebe752daeb1178786dfb113))
+
 ## [0.0.2](https://github.com/EBCONT-Conference/github-unleashed-sample-app/compare/v0.0.1...v0.0.2) (2025-05-27)
 
 
